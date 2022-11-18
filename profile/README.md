@@ -6,11 +6,11 @@ This is an archive of the officially dropped Petr stickers at UCI.
 
 ### What are Petrs?
 
-Petrs are a tradition at UCI of making and giving out stickers that resemble the UCI mascot Peter. Originally started by Petr the Anteatr, it has grown to a community of many people who donate their time and money to create and distrubute Petr stickers at sticker drops around campus.
+Petrs are a tradition at UCI of making and giving out stickers that resemble the UCI mascot Peter. Originally started by Petr the Anteatr, it has grown to a community of many people who donate their time and money to create and distrubute Petr stickers at sticker drops around campus. You can read more about it [here](https://oac.cdlib.org/findaid/ark:/13030/c8fx7h9r/entire_text/).
 
 ### What is this Project?
 
-There are many many Petr stickers. This project is an atempt to catalog Petrs and give a way to "rank" which stickers people like most.
+There are many many Petr stickers. This project is an atempt to catalog Petrs and give a way to "rank" which stickers people like most. You can see the site [here](https://petrarchive.io).
 
 <!--
 
