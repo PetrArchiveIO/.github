@@ -12,6 +12,8 @@ Petrs are a tradition at UCI of making and giving out stickers that resemble the
 
 There are many many Petr stickers. This project is an atempt to catalog Petrs and give a way to "rank" which stickers people like most. You can see the site [here](https://petrarchive.io).
 
+The main website is stored on my github page (its still public) because Im broke and if I host it on an Org then I have to pay for Vercel...
+
 <!--
 
 **Here are some ideas to get you started:**
